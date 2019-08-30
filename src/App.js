@@ -139,9 +139,6 @@ class App extends Component {
        :<Register loadUser={this.loadUser} routeChange={this.routeChange}/>
       ) 
       }
-      <div className="mt6">
-        <p>© 2019 Muli Orgatz</p>
-      </div>
     </div>
     );
   }
